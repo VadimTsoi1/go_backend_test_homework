@@ -11,3 +11,5 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("Я домашка")
 }
+
+//olla just checking whats going with that git thing
